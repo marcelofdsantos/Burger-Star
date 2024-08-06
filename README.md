@@ -31,3 +31,9 @@ Burger Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, p
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/burger-star.git
+
+2. Instale as dependências:
+```bash
+cd burger-star
+npm install
+
