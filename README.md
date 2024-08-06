@@ -34,6 +34,6 @@ Burger Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, p
 
 2. Instale as dependências:
 ```bash
-cd burger-star
-npm install
+   cd burger-star
+   npm install
 
