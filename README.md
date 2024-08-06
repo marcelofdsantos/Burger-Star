@@ -1,6 +1,7 @@
 # 🍔 Burger Star
 
-[Burger Star](https://drive.google.com/file/d/1UrD0zn2nMuGgriXirB-YvRnp-rTXF9xY/view?usp=sharing)
+
+<img src="https://drive.google.com/file/d/1UrD0zn2nMuGgriXirB-YvRnp-rTXF9xY/view?usp=drive_link" alt="Logo da Minha Empresa">
 
 
 Burger Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo de hambúrgueres.
