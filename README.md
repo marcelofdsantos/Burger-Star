@@ -36,4 +36,7 @@ Burger Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, p
    ```bash
    cd burger-star
    npm install
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
 
