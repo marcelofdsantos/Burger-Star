@@ -1,6 +1,7 @@
 # 🍔 Burger Star
 
-![BUGUER_STAR](https://github.com/user-attachments/assets/3285c681-22b0-4fbb-a230-9ae41555cf31)
+<img src="https://github.com/user-attachments/assets/3285c681-22b0-4fbb-a230-9ae41555cf31" alt="BUGUER_STAR" width="600"/>
+
 
 Burger Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo de hambúrgueres.
 
