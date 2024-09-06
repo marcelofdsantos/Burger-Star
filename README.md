@@ -8,7 +8,6 @@ Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, 
 ## Funcionalidades
 
 - **Tema Dinâmico**: A aplicação possui um recurso de tema dinâmico que muda entre claro e escuro automaticamente, dependendo do ícone selecionado: 🌞 para modo claro e 🌜 para modo escuro.
-![3Vite + React - Google Chrome 2024-09-05 22-10-26 (1)](https://github.com/user-attachments/assets/45849228-1e28-4636-bcce-cb2c58957dae)
 - **Cardápio Interativo**: Explore uma variedade de hambúrgueres com imagens apetitosas e descrições detalhadas.
 - **Performance e Eficiência**: Utilizando Vite para uma construção rápida e eficiente da aplicação.
 - **Estilos Modernos**: Com TailwindCSS, o design é responsivo e moderno, garantindo uma ótima experiência em qualquer dispositivo.
