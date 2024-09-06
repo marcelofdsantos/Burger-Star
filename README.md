@@ -3,7 +3,7 @@
 
 ![BUGUER_STAR](https://github.com/user-attachments/assets/3dcf54ee-6421-49a4-93db-f0810340ed81)
 
-Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo de hambúrgueres.[Veja o Burger Star aqui!](https://burguer-star.vercel.app/)
+Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo de hambúrgueres. -> [Veja o Burger Star aqui!](https://burguer-star.vercel.app/)
 
 ## Funcionalidades
 
