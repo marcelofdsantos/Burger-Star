@@ -1,7 +1,8 @@
-# 😳 Burguer Star.
+# 🍕 Divina Pizza.
 
 
-![BUGUER_STAR](https://github.com/user-attachments/assets/3dcf54ee-6421-49a4-93db-f0810340ed81)
+![pizzaria](https://github.com/user-attachments/assets/c13aea23-ad69-474f-8d2a-aaf9d07c8dba)
+
 
 Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo de hambúrgueres. -> [Veja o Burger Star aqui!](https://burguer-star.vercel.app/)
 
@@ -32,11 +33,3 @@ Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, 
    ```bash
    npm run dev
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
