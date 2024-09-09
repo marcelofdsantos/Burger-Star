@@ -1,6 +1,4 @@
-# 🍔 Divina Pizza.
-
-
+# 🍔 Burguer Star.
 
 ![buguer](https://github.com/user-attachments/assets/e0803aba-e04b-46cf-ab7d-f50adec37274)
 
