@@ -4,7 +4,7 @@
 ![pizzaria](https://github.com/user-attachments/assets/c13aea23-ad69-474f-8d2a-aaf9d07c8dba)
 
 
-Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo de hambúrgueres. -> [Veja o Burger Star aqui!](https://burguer-star.vercel.app/)
+Divina Pizza. é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo.
 
 ## Funcionalidades
 
