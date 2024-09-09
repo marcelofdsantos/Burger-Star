@@ -1,4 +1,4 @@
-# 🍔 Burguer Star.
+# 😳 Burguer Star.
 
 
 ![BUGUER_STAR](https://github.com/user-attachments/assets/3dcf54ee-6421-49a4-93db-f0810340ed81)
