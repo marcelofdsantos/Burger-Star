@@ -1,8 +1,8 @@
 # 🍕 Divina Pizza.
 
 
-![pizzaria](https://github.com/user-attachments/assets/c13aea23-ad69-474f-8d2a-aaf9d07c8dba)
 
+![buguer](https://github.com/user-attachments/assets/e0803aba-e04b-46cf-ab7d-f50adec37274)
 
 Divina Pizza. é uma aplicação web desenvolvida com React, Vite e TailwindCSS, projetada para oferecer uma experiência deliciosa de navegação em um cardápio interativo.
 
