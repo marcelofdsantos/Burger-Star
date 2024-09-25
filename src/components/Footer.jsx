@@ -58,7 +58,7 @@ const Footer = () => {
                     </h1>
                     <nav className=" flex flex-col gap-2 font-medium">
                         <Link to="/" spy={true} smooth={true} duration={500}>
-                            burguerstar@email.com
+                            burgerstar@email.com
                         </Link>
                         <Link to="/" spy={true} smooth={true} duration={500}>
                             +55 13 91234-5678
