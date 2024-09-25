@@ -21,11 +21,11 @@ Burguer Star. é uma aplicação web desenvolvida com React, Vite e TailwindCSS,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/burguer-star.git
+   git clone https://github.com/seu-usuario/burger-star.git
 
 2. Instale as dependências:
    ```bash
-   cd burguer-star
+   cd burger-star
    npm install
 3. Inicie o servidor de desenvolvimento:
    ```bash
