@@ -9,7 +9,7 @@ const Navbar = () => {
         <div>
           <Link to="home" spy={true} smooth={true} duration={500}>
             <h1 className="font-semibold text-2xl text-secondary">
-            Burguer Star.
+            Burger Star.
             </h1>
           </Link>
         </div>
