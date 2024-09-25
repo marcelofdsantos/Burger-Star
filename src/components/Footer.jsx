@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className=" bg-tertiary text-secondary rounded-t-3xl pt-8 md:pt-0">
             <div className="flex flex-col md:flex-row justify-between p-8 md:px-32 px-5">
                 <div className=" w-full md:w-1/4">
-                    <h1 className=" font-semibold text-2xl pb-4">Burguer Star.</h1>
+                    <h1 className=" font-semibold text-2xl pb-4">Burger Star.</h1>
                     <div className=" flex gap-5">
                         <FaInstagram size={35} />
                         <FaFacebook size={35} />
